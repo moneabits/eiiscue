@@ -5,7 +5,7 @@
 ### Favorites + Hobbies are | Matcha tea | Baking & Cooking | Reading | Gardening | Bird Watching | Film + Photogrpahy| Toro inueo 
 ### Were to find me | Twitter - Eiiscue | Tumblr - Eiiscue | Linkdin - Tamia Abbott | Pintrest - Eiiscue | email - Moneabbott@gmail.com 
 ### Specailties | Python | Html + Css | UI Ux design | Quantum Coding | Swift 
-### Other Info | Founder of Caeli Collective 
+### Other Info | Founder of [Caeli Collective](https://caelicollective.carrd.co/) 
 
 <!--
 - Helloo! I'm Moné
