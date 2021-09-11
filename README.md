@@ -1,4 +1,4 @@
-### Salutations, Helloo! I'm Moné 
+### Salutations, I'm Moné 
 ### Pronouns | 🏳️‍🌈 She/Her 
 ### I'm a STEM Highschool Sohpmore in Stafford, Va
 ### Intrest are | Climate scinece | Particle Physics | Abstract Algebra | Calculus | Quantum Computing & Coding | Cats | Cliamte Justice | Robotics 
