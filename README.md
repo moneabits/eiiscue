@@ -1,4 +1,4 @@
-### Salutations, I'm Moné (she/they) 📹
+###  👋🏾Salutations, I'm Moné (she/they)
 
 
 
