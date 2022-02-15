@@ -1,6 +1,6 @@
 # 👋🏾 Hey, I'm Moné
 
-###Born Quantum & Web development enthusiast.
+### Born Quantum & Web development enthusiast.
 
  - 🪄 currently learning - Machine learning & Quantum Programming 
  -  - 🔭 currently porject - personal online portfolio 
