@@ -1,6 +1,6 @@
 # 👋🏾 Hey, I'm Moné
 
-<p align = "center">### Born Quantum & Web development enthusiast. </p>
+<h3 align = "center" Born Quantum & Web development enthusiast. </h3>
 
  - 🪄 currently learning - Machine learning & Quantum Programming 
  -  - 🔭 currently porject - personal online portfolio 
