@@ -15,8 +15,7 @@
 -
 
 ### contect with me <3
- 
-[![name](link to image on GH)](link to your URL)
+
 
 
 
