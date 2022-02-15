@@ -12,7 +12,7 @@
 - 🎏 Pronouns - She/They
 - 🌱 fun fact - lived in 4 different continents 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiiscue&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiiscue&show_icons=true&theme=graywhite)
 
 
 
