@@ -1,17 +1,15 @@
 # 👋🏾 Hey, I'm Moné
 
-### Born Quantum & Web development enthusiast.
+<p align = "center">### Born Quantum & Web development enthusiast. </p>
 
+ - 🪄 currently learning - Machine learning & Quantum Programming 
+ -  - 🔭 currently porject - personal online portfolio 
+ - 🌋 currently looking for summer porgrams and internships 
+ - 👀 always open for collaboration 
+ - 📬 can reach me through moneabbott@gmail.com 
+ - 🎏 Pronouns - She/They
+ - 🌱 fun fact - lived in 4 different continents 
 
-<li align ="center">
-  - 🪄 currently learning - Machine learning & Quantum Programming 
-  - 🔭 currently porject - personal online portfolio 
-  - 🌋 currently looking for summer porgrams and internships 
-  - 👀 always open for collaboration 
-  - 📬 can reach me through moneabbott@gmail.com 
-  - 🎏 Pronouns - She/They
-  - 🌱 fun fact - lived in 4 different continents 
- </li>
 
 
 
