@@ -3,7 +3,7 @@
 ### Born Quantum & Web development enthusiast.
 
  - 🪄 currently learning - Machine learning & Quantum Programming 
- -  - 🔭 currently porject - personal online portfolio 
+ - 🔭 currently porject - personal online portfolio 
  - 🌋 currently looking for summer porgrams and internships 
  - 👀 always open for collaboration 
  - 📬 can reach me through moneabbott@gmail.com 
