@@ -2,7 +2,7 @@
 
 ### Born Quantum & Web development enthusiast.
 
- - 🪄 currently learning - Machine learning & Quantum Programming 
+ - 🪄 currently learning - Machine learning & Quantum Algorithms 
  - 🔭 currently porject - personal online portfolio 
  - 🌋 currently looking for summer porgrams and internships 
  - 👀 always open for collaboration 
