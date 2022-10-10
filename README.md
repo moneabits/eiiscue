@@ -8,7 +8,7 @@
  - 👀 always open for collaboration 
  - 💬 can reach me through moneabbott@gmail.com 
  - 📢 Pronouns - They/Them
- - 🌱 fun fact - favorite aninaml
+ - 🌱 fun fact - I collect vintage cameras
 
 
 
