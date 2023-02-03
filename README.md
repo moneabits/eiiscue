@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Moné
 
-### Born Quantum & Web development enthusiast.
+### Born Quantum & Data Science enthusiast.
 
  - 🔦 currently learning - Machine learning & Quantum Egineering  
  - 🔭 currently porject - personal online portfolio 
@@ -8,8 +8,7 @@
  - 👀 always open for collaboration 
  - 💬 can reach me through moneabbott@gmail.com 
  - 📢 Pronouns - They/Them
- - 🌱 fun fact - I collect vintage cameras
-
+ - 🌱 fun fact - I collect vintage cameras 
 
 
 
